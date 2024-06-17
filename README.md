@@ -20,11 +20,6 @@
 </p>
 
 
-<p align="center"> 
-  <kbd>
-<img src="src/kentsTweet.png"></img>
-  </kbd>
-</p>
 
 ---
 
